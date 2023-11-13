@@ -1,0 +1,6 @@
+L'argument est  : ['Vous pouvez annuler votre abonnement de 12 francs et vous abonner au forfait tout illimité en Suisse à 23 francs.'].
+L'input appartient au cluster : abonnement illimité.
+Prediction: negative
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE671ba637f68fe8467f7c9cfa9cfce481
+Duration: 106.0 seconds
+-----------------

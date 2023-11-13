@@ -1,0 +1,3 @@
+ le contre_argument est :"Parce que c'est bien plus cher que vous, vous êtes au minimum à 58, 60 francs par mois, pour la partie Internet."
+ le raison de rejection est :"Je vais bientôt avoir le changement au mois de juin, c'est bon."
+{'_id': ObjectId('64e602a56c29a0344f4c716c'), 'url': 'https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REafb1c3c56bd8840ce3c0b663acf2f4cb', 'contre_arguments': '"Parce que c\'est bien plus cher que vous, vous êtes au minimum à 58, 60 francs par mois, pour la partie Internet."', 'rejection_reason': '"Je vais bientôt avoir le changement au mois de juin, c\'est bon."'}

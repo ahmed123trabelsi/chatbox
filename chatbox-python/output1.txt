@@ -1,0 +1,2225 @@
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2e1f7d31c3f6d2c8314901a66818a1e8
+Duration: 2288.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REcace96ec7eeef7f86f806a4d945d7a4f
+Duration: 1629.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE944f1ff27ec722dc86e505a99e0866f4
+Duration: 1523.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1113c0e9bded00237c3837e8d5a6845a
+Duration: 1398.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7169fd6f2baa9bc4884b72d14b9156dd
+Duration: 1378.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec vitesse de connexion élevée
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8697bc906bf9cd66e9548d924b0ac849
+Duration: 1283.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8893eb84626e25aafd8c4cc246b35474
+Duration: 1268.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc00e535b5a6faa6e8c5aab3dec66a11c
+Duration: 1224.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REeef74ff4a0bc6313478e51854764b884
+Duration: 1211.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3a3f7ccf14f7075cc479cc7c2485ff1b
+Duration: 1188.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE031123280176a696646bb6b53c3038a2
+Duration: 1165.0 seconds
+Rejection Reason: pas_besoin
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE44f9047d86df04a64f2528f7a49a0414
+Duration: 1154.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE909f993ad37996634b5e5ce410bfbb72
+Duration: 1154.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE58713847c1ad5f182d8974c6c76853b2
+Duration: 1105.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE12449ac3c2afabda3316b3fb12f5772f
+Duration: 1101.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbbc126d8f5f433d7e2d4c9e951c669a8
+Duration: 1096.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE28a85bb58cfe7e88a80cd50a0590da20
+Duration: 1093.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3134eb7513c1aa7ffd823114875eb57f
+Duration: 1079.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7b68c489f327722f7cf891967d5f0389
+Duration: 1068.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0bbe5a6a4b3aa949ee5ac6e0d38ea427
+Duration: 1050.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6a2e7398912882776cbc4b710c0165e0
+Duration: 1015.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3539615df9c3d4f08359277d4ad7157e
+Duration: 975.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2aad289a6c17fd1b6fe05e4b29f302c6
+Duration: 969.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE67fcf2972db202a945fc049f32e67a50
+Duration: 969.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbcb27267226ba312333d9ea149b37481
+Duration: 955.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa2193f73c879e6513fd06caf74d6a786
+Duration: 827.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbdbb717086c377ebd70027594c7e5c0a
+Duration: 825.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REce7a61edfbec2da7b85ca38221afa888
+Duration: 806.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec vitesse de connexion élevée
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE38763ae54cb1168fe9139a75c3ba9343
+Duration: 804.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE697ebe996270d64687c4d63351f0153c
+Duration: 803.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4c1b746dd6055ba86e0801b3b3a9370e
+Duration: 795.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE672c3fa3f3e9c54fbaded9cc16cba057
+Duration: 795.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6e8e8fd132b3dd7d8cddc006bb7db669
+Duration: 788.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE55d43296ba01af57b85ee614a71b60bb
+Duration: 780.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7c420cfabc5542aae77f581181c53b2a
+Duration: 780.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd0eac43eae6ec206a4f3dc3f6fb6f938
+Duration: 768.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2f5d3d72a54e3819b7cef1d641f2babd
+Duration: 764.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8b3649148fe8e65061804cdb3abd4da4
+Duration: 753.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE94c8164cf9871d941f4377c47835d189
+Duration: 749.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE45582a8965c6fba506724397f9d15113
+Duration: 734.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE40b22c4c2f68d9feacc2109cb1315b5f
+Duration: 724.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE44759681d7c0f588e0c220adbc9a6aae
+Duration: 719.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE107e484f598c8fa6f8eb75a748042cab
+Duration: 713.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE762d6c5b6d69a3781880718570a49cf6
+Duration: 709.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7bcc92231c0b2d176a8b85dbb7a10fba
+Duration: 705.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE374561d1d52828495926da2e26cf1959
+Duration: 701.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9504b46e68f83b1339a6a0a744731a72
+Duration: 698.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE225a0c2aceb7f9c5bcf87fbacaae7732
+Duration: 691.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0ad26246af746ec6f578379f987a8e1d
+Duration: 685.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6f93f85314955a59af9a2cffa6e68dbf
+Duration: 685.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE61cc3f2552daeffae390121edcca040a
+Duration: 681.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5ba12b7f1c68ad0ed26c5c1b979bf28c
+Duration: 676.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REdb4455d220375cf97e18f5d407c9cf81
+Duration: 676.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE57585800bb9ad88be2829072a9a01912
+Duration: 669.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE56c827b1499ba4cbc78d345a5c5520f2
+Duration: 665.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE738de84427d301ce0e0601b66cd79c2a
+Duration: 665.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE49ce97dcb5040f61c586229e23e9c239
+Duration: 653.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa2b23e5c68a9f7c162bb72bad500a290
+Duration: 640.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7da164f3c29a858522cb54d27d6105d7
+Duration: 633.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd54a3429fdf52c0ea80533b39d56ade6
+Duration: 633.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE55cf71bcbfca608af857b5fea07905d0
+Duration: 629.0 seconds
+Rejection Reason: déplacement fréquent
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1364be471e719b4985fc6a1af9180af4
+Duration: 621.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfae9fadc4b0d2c6658b72a3b3373e87f
+Duration: 619.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE02edad01ad5edd0ca7005313610e00e9
+Duration: 616.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3a73255a8d4c9e1783adfad8fb5ca515
+Duration: 613.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2c52c9208cd90ce0af65158727b5879e
+Duration: 606.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0ee6798ccfa700be744bf631ea45cda5
+Duration: 603.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8f1568e8eb0442d806802268e2140d97
+Duration: 600.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REdf9aabe2a6e2d72f83ab03c14b63763a
+Duration: 598.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2053d2b2aa69b8791425f63f6cd12034
+Duration: 587.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3c3bc5b8fa07eded16cbb291a78349b9
+Duration: 573.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE37ffe432eaf8297663d55fc97d8eb1a4
+Duration: 571.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE411c37d6ad35fbcad1501fe2901b5798
+Duration: 570.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb175c7654d4e967f021c933b5b2ef08c
+Duration: 562.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE777f5e56d4e1152359ef0df290a1dbe5
+Duration: 557.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd75c455f4c1f0efea025e35ab8cf6081
+Duration: 557.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb4176d2fc0e40b714f38280ea3a44b45
+Duration: 555.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe9986961886308b92bce12186dea2a94
+Duration: 553.0 seconds
+Rejection Reason: autre_langue
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa154502c6b5588abd5addc407e64b1d3
+Duration: 548.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe3c5ec68a14e00951bd44f4bf94a43ac
+Duration: 543.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8173456223a4ebbd6245b8c724aa4402
+Duration: 541.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3c8b20e3117e18981cf558a5ba2a4d62
+Duration: 539.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE87e2727d52ab7c06e003f07b0d619ef3
+Duration: 537.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8c40ca23700eb9322b578c389bebc4ea
+Duration: 533.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE88903c0d6de2713d87f5c7e3c8babf4c
+Duration: 533.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4736593f15cd465ce6673072d494a7f8
+Duration: 530.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8b4cbcc89105be683e526099c43830ca
+Duration: 524.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf6357e582aa536fa847aa7cfc3274eae
+Duration: 502.0 seconds
+Rejection Reason: pas_besoin
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE93116424c1d589384372b7d4377d08c9
+Duration: 492.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4c0226cb7fa1c331f0b1d305d1ddaf23
+Duration: 489.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb063d848fe233a57a69cbebba4c0a564
+Duration: 483.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE474c0d30b709eead55c5f5ff4028e8ba
+Duration: 478.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc7fd655e7af8fefbd23a0c5986451e5b
+Duration: 473.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE21a0e348d8d8e66bb2198f4e2f6ec737
+Duration: 471.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc3a30f1748c3c5aa552cac8aa62773c6
+Duration: 470.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbba7b681f71b80a5cb2014cd6a462f57
+Duration: 462.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE714d2a12d1daa6e2b9afa575b55d665b
+Duration: 461.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfad0d36723d7d3f7c4ccdd3e07a28414
+Duration: 459.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE02d81bbdfc2279fc7f55ed4781993cf9
+Duration: 457.0 seconds
+Rejection Reason: pas_besoin
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE29d56fda3a0163532f79673f14a4b7a4
+Duration: 452.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE31b5e8ed7bf79b0b8080cd9db40f5e4a
+Duration: 447.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE53bd890a66baee45029a350b8d44524b
+Duration: 446.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbfa6546e9b03d47577ee58ac930b9c9e
+Duration: 440.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0231648c96b8404c6ad9c33dbc1b0ee3
+Duration: 429.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE471b3dece35f6e13b6480a2426459b5b
+Duration: 427.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf1fb030044433b835aee05b201de19fb
+Duration: 425.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9a7dea565570aa40cf7d4e7626c2ad62
+Duration: 421.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1b86eca41112acdcd11724c387f725a0
+Duration: 415.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb4f8a7bfc8a2227e5d5b9b9067fa04cc
+Duration: 414.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1ef8b3413530c8b350be05bb8dbf3e8e
+Duration: 413.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE895a0b55025a3d6386d35d310478471f
+Duration: 408.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5499f168c9a6c65199f0d7cb196ee9bd
+Duration: 404.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa2fb837c772d9ee94859410414a8fd77
+Duration: 404.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7c5070fbdc71f2b53638556b9ef2e5f7
+Duration: 402.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbc8c4061928b86a1a221640715febe8f
+Duration: 397.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REeffce80705490cc527c40fc47e82ce9b
+Duration: 396.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE598901157341cfd3029e355a51bcf9f0
+Duration: 392.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REca56cef99dd84e62e93f0d80324f431c
+Duration: 391.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE45f135db61e580dbdc7486d78dfa91b2
+Duration: 391.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE59377f09838bff4a58818206f1743e3f
+Duration: 390.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE19dabbad2c5f2c015e3568529bd71f07
+Duration: 388.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE18c09b718e3547f262df3b38366dc7c4
+Duration: 385.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb39d0611df3c4ff052a0e9731b1346b4
+Duration: 385.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa59de048683deaa2879cb4006eda0f31
+Duration: 379.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE70e6b78b26f6836043801a54fd5e26e9
+Duration: 378.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe0b40db80a21923c76e4202292fd81a2
+Duration: 377.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4ffebb797f37fcb067a62e62e913d3dd
+Duration: 377.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE026ba1f21f691f1d51b1b7ee9552ac90
+Duration: 371.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec vitesse de connexion élevée
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9d2051ed8b69c69f773c3410fdd41c3f
+Duration: 371.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd394c1ab7c329127da7684bebbe8dceb
+Duration: 370.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc39e731d2c9b10f709c54b5fe6b41fcc
+Duration: 369.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf5ac0e58ecd8bcf0ba075db4352864c2
+Duration: 367.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE07a223ee9e76625c1c8985a316c3474e
+Duration: 352.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1fe711574389ce1a19042c2d22b002a3
+Duration: 352.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE361a788d5e316d73707732357b48ed1c
+Duration: 352.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3939cc48ce5625269a36a8970517cd1d
+Duration: 352.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE272f2a5257f1266c49d8a44187d166c7
+Duration: 346.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REab23975031ec8178a1960578ea504b42
+Duration: 339.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe263e0aba2b9ccc1677927d7b08b3836
+Duration: 337.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE88c00e6142a3e47cad704003a5e1233c
+Duration: 335.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf5c8bafcc1f7454b62ca3084e9948896
+Duration: 335.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE888c169e9024b458889a11ab445a4884
+Duration: 334.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE32b650eb2a1b61d7e23e3a4787762075
+Duration: 333.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6184402fb84a096732daca0dc288d923
+Duration: 332.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1ab227d5bf35160b6a1a77a2f5517b70
+Duration: 330.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE356571d63c57d53da0c266e4e3ff17b4
+Duration: 330.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb843e93c84498be2b6c7dc965c43d641
+Duration: 330.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REcd0d9d1f641eeb9cdd1a9c5ddc8c9d5f
+Duration: 330.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE20a47f55ebf7074f1b99e44ac09a0082
+Duration: 329.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE252e11fc3307d60019102cc403a84a5b
+Duration: 329.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3e4d479340a7f68a4de9632427c0dab0
+Duration: 328.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfbe727dde8381ec866ca8e35a93bc2a6
+Duration: 327.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4b5fe1bdfdfe7fb7610436987f7427d7
+Duration: 320.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE71be22fba06b30c096a6b8ba9927fbfc
+Duration: 320.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf58d7d0b5f4b67e8cbcac36f8ae7513f
+Duration: 320.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE74854a7f0693732dd80062bf6c55c000
+Duration: 319.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8f7e65e2a99f01a8fba62329da351987
+Duration: 316.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE46a832592bab51522712c53855d028ad
+Duration: 313.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb78aec5b86f0f31a740e87c475c39b6d
+Duration: 313.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec vitesse de connexion élevée
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE64e4ac9aceb2f69ce59a7414ba29618d
+Duration: 299.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1b8e10bc63329eedbde24b8befa3456a
+Duration: 297.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE76be0a4c86edf9a735f8a8f82d0bc4a6
+Duration: 283.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec vitesse de connexion élevée
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2fed74e5c9a4f49ce5ed7513f8e020d0
+Duration: 275.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbce2945637a8878543ff458eb2cb94f2
+Duration: 275.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0b519d63145e9b5dd160a3ed55f5f4d4
+Duration: 267.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4a7e2c5856402923f15cffa8366eb6dd
+Duration: 264.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3af958010e3da016233ec3b762581988
+Duration: 261.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8bb17718b34dc59b204729f9d51d8e06
+Duration: 250.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REacedbb3f96adca9a8cc3b7fe97e6a735
+Duration: 246.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE638886bfcae59575cbcb8571a1bef714
+Duration: 245.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2a2f781d95e20c3109ef9c5a540f10d6
+Duration: 241.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec vitesse de connexion élevée
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd8884dd95661ee8b7059ccc32ca9a7f5
+Duration: 237.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4743aed7b076b33b457d0ad829b8977c
+Duration: 231.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REaf0d6255df02d063e35f0dcf4cd3b37b
+Duration: 230.0 seconds
+Rejection Reason: prix_élevé
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0841b52382d812fa4325870e2388688f
+Duration: 228.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbf752801ad3ff3253fcfbb232c2e914f
+Duration: 228.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE980faaba169ae2e7cb4b253173c36ead
+Duration: 227.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd064c17a9a48cb91bbc65622d2a5e292
+Duration: 223.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE878e899e51589c5766316a37dc00f7d0
+Duration: 222.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5539596614682a3f2d793e71b2ecd2fb
+Duration: 220.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4f98e75c685b5124e5a47ada7aa010b9
+Duration: 217.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0e7932981e34cce1140a0aed28a2f700
+Duration: 214.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE586b5d574b57eaa32ebee65205ab3321
+Duration: 196.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe49cf3d480d43dde9ac25546b2102262
+Duration: 195.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7b95cf52d796bcc83c9a88258a2471ab
+Duration: 189.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0d3c2960e87bd192b56a12f1cc7c099a
+Duration: 187.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9a2eb05e8b45a2800cd223103d024607
+Duration: 186.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4d01d8ed719f7b5b9d5087a77f39871e
+Duration: 176.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc4c4c196b1f9f7164c5d78286b1a7462
+Duration: 170.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc3e440d0143f22a6ff624e5409ded591
+Duration: 168.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REaec91905c1fc2cf870257e7afe8e37e2
+Duration: 167.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd942bc57c340e1511f27c751dd037fe1
+Duration: 163.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE35db59c4306207202d416ac5de6daddf
+Duration: 161.0 seconds
+Rejection Reason: déplacement fréquent
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE37ed84cc7e6b7e76f317ee1daf672280
+Duration: 160.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8909db7dafab40c14db949ab234310dc
+Duration: 159.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE25e83d003779fb7f530a01af5c718b7b
+Duration: 158.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REcf431d784e2bd100d9aad520f1adb3bf
+Duration: 156.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0c47a62c1b2a77c6b77c9d06f410f8f6
+Duration: 151.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2fea928ea6f88ad3f264c126e7b4da65
+Duration: 144.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4661f876d47488f345c84f290390bee9
+Duration: 140.0 seconds
+Rejection Reason: déplacement fréquent
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE053b2019caa8810cf8d000886d74ac3e
+Duration: 138.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6145c415563fef7340940480cf6ede4b
+Duration: 137.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfe49564255050d998e254c4bc70074b0
+Duration: 135.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5bad95119ab35e868da3a4985edcaa2b
+Duration: 133.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe513e4734583d9bc1ece1bc1b8a96ebd
+Duration: 127.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfe1da39d07f664713a9121c1d4b04fef
+Duration: 126.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc98cdf0958a489bfbe4ef2fc7dd6a333
+Duration: 121.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2d39ed5f61a111842ad79b5c5ddfab40
+Duration: 119.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE851331c041b9b8fdba3ba9e62dedebf5
+Duration: 119.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb62985726c18e7b850e17b9f47df00e7
+Duration: 119.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REaf9122d6d74a68688725d328922e1e27
+Duration: 117.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE23848782f322c13d7dc102c20da463ff
+Duration: 115.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE09c7033caaa155ab1658c1f92b4afa5f
+Duration: 114.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE45c303079b67cd9f80581cb2f8b5b2b4
+Duration: 113.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa46dac6ed4ad47a627d55b41f4885308
+Duration: 113.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2f72001477d0dcb49e00e351e3e4b32f
+Duration: 112.0 seconds
+Rejection Reason: autre_langue
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REafb1c3c56bd8840ce3c0b663acf2f4cb
+Duration: 112.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7e3c014b43ba968a83dc35c487292ff4
+Duration: 111.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9c018bc90b93e9aa89322db3eef31571
+Duration: 110.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb50a64bb673be0564ce790d9d009847e
+Duration: 108.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE671ba637f68fe8467f7c9cfa9cfce481
+Duration: 106.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE98a9666695552e6cf53b3443173f882e
+Duration: 105.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE19b469faa735e85ce1ba2b71e4c18b99
+Duration: 104.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7b62cc89f9c71de7baeb3e828eb1d564
+Duration: 102.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE00db2e151e0953318b987c5cf95b41a3
+Duration: 101.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE32e57ac89f74afada47d0577e84bbd44
+Duration: 100.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE180262288e5b80f863205fbc89de4522
+Duration: 99.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8214ffbe013580018c7829b145db59be
+Duration: 99.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf95e8c876ac75893cfd4cdcadf5be37d
+Duration: 99.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfdd417aeedd72764ee852a61281f651a
+Duration: 99.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REba0c262d49739c0dfc1f5041c0c0a78e
+Duration: 98.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf3b0051acb4fa6e19da0ce4fbe07ac4c
+Duration: 97.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa1414c5793ef0389fe0d556298a8afd4
+Duration: 96.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc3c4ab93d417354cc4eda00253acb6d0
+Duration: 95.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc359f31473e5371a72cf8e3d5220f950
+Duration: 94.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1ed22eb2692bfb34ad7b1de95da64810
+Duration: 93.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5ff136d4e70b84ebf8fd2a4e82f208ab
+Duration: 93.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE08f84c84b7349bd119f3cd87e1d55da8
+Duration: 92.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbe5f1779ec74dd9e85366f326ec723ed
+Duration: 92.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6630b3a3a3429f38b84068325d239a82
+Duration: 91.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE59c219db28c22b95632b9ae079459bb8
+Duration: 87.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7734e29927ac7b888b29189c4d12992c
+Duration: 87.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb7f96d39f0fc858555a9bef41667f033
+Duration: 87.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4dc8a18c429d1f5766cbf9e56befa1b1
+Duration: 86.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE643a59b57a4a47fe6c8ce3b3c6d030a1
+Duration: 86.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE978688842c16cfc6649ef21ec5b900c5
+Duration: 86.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbe512fc6eca846329d7d4526e889f10a
+Duration: 84.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE41aa1de71d15a50e986d280ad72cd3ec
+Duration: 83.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4edc414f3c3ca155ab1d1ce86331dd1e
+Duration: 83.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe7e4534c32f138367e5b4469b89d0492
+Duration: 83.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE54e49e384f9533ff6038566bfc522f46
+Duration: 82.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE894dee73f1a00148959c4694cebc87d5
+Duration: 82.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7bb1aeabf9323ed7e5617c4dd50d89ef
+Duration: 81.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1d588d53f483443596c44d0c436dba8b
+Duration: 80.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4453af5700a61cdecb2d52833cd114e9
+Duration: 80.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE47ca6b03a42b28f0fd262e0ded14e896
+Duration: 80.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8c2969af873f0a7edaba2c7927c8a570
+Duration: 79.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa8292617cdec65cb02bc0a994467a632
+Duration: 79.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3208b0f4f9d6a5897223427f8942593f
+Duration: 78.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6e76461234833fbee8c7d723f7d4f4ca
+Duration: 78.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE77d055280125240f8f79cf7eff2148ef
+Duration: 78.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbce7cf6d6480c7996e80ccc0238a8ba5
+Duration: 78.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd2ee20129de90789e2e2f0aa848f4b83
+Duration: 78.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REdb3da7f485c31818004e490ee7434d64
+Duration: 78.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE85aae4829c7f145cd4d81bcc10e2e472
+Duration: 77.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE92239114ac4fcc9ede7e22f8b442c8a8
+Duration: 76.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc695dc80aaefedaa31ba169534ac5970
+Duration: 76.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE15e152fb3445010b9dc85602207ae91f
+Duration: 75.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2174c518694e7d428d6b7edc5ca8e0ee
+Duration: 75.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE82b2757c8b54884dc46259a538b6206d
+Duration: 75.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE19a93f2ca75cc729b41bcef31ec267ec
+Duration: 74.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE991d18d7b088a8c54d86ab8e40f64ef8
+Duration: 74.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbbdd1f9d1e5103a6129ab79e7a960cce
+Duration: 74.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc3a619f623886804084f78116d8f7aab
+Duration: 73.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc40355e3b9fc6291899b0c83615feb6c
+Duration: 73.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf21035f0b13c7532c8e099aeac9924d6
+Duration: 73.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1631e3f69cc4491c0979ce5089238e13
+Duration: 72.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc6f8026589edd41308d1f1e89f22ccf6
+Duration: 72.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf4c3152a3423eb6beff853489028b22c
+Duration: 72.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE09757dfc26c0687325a21a5119344b51
+Duration: 71.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE303619adb5a3cbd119df1471af524d50
+Duration: 71.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE27456ed9fdded449b3a85b537e59ce37
+Duration: 70.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE911f6840784d6ff67f2ef54f1489a11c
+Duration: 70.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4514feff1f741a40b8c190c44fd6c199
+Duration: 69.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE05572b07a9c74af9c6ac83f60118e584
+Duration: 68.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE19201a3522e19e3e26012a7380f24f20
+Duration: 68.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE50876fdd9747563bb356cf2ec60c973b
+Duration: 68.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE60dacbde1125453230e53b0d80e73087
+Duration: 68.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REdbe51865cb9419f501916d32e4f8bfb1
+Duration: 68.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REdc93871dee3b06e50ac4454d7e739bf2
+Duration: 68.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REec2b67e655a3168658c121ae55ed8a73
+Duration: 68.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE057539950576126efa15be70caea6bba
+Duration: 67.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2d4d720936308e9056dd3f7e667d388e
+Duration: 67.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE518f22dc2a272723bdb8e0dbf775148e
+Duration: 67.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE593174b2ed02769cea6528f45d152041
+Duration: 67.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2bfb432f7cde7c9ff156b49918316967
+Duration: 65.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE58ae742eb5b492a40f4ce2c9e02f8078
+Duration: 65.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbe6a030429e4b9bf5d93af584f92c291
+Duration: 65.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfab607841d304da7368c8d717d11f3ac
+Duration: 65.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE02132c271a25af945497f6706829f543
+Duration: 64.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc7f99f4be07386fdba4fecabd3a5412c
+Duration: 64.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3bd66262048515fa3255daa3552c9725
+Duration: 63.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REdb89ad3cc7f7933317af2aa8183a9452
+Duration: 63.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0dc5dab275625a980d3d95b4bf8bdd68
+Duration: 62.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4324c5741e8b9a414ac8129fdf2d16bb
+Duration: 62.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE69a09edbecf70ba32baedf7ac5ddebc3
+Duration: 62.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9f3ac48a33dbd3ae13921df860fbaf41
+Duration: 62.0 seconds
+Rejection Reason: autre_langue
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe80d14b4ca575c368ed8652c0194633f
+Duration: 62.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfa4ec5a9873ad48bcf16ddff97b078b5
+Duration: 62.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1fe7f020d55cd946fb7b274c0fd81877
+Duration: 61.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE381c3a0226f5b35141d32262830ac978
+Duration: 61.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE407673475711a7e489db4f7410baf798
+Duration: 61.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5dbb2b3f63f62f9d179cb96f50d1bc93
+Duration: 61.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE754fc91940ad8b93cef37553a3b3ea84
+Duration: 61.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7894a3572379bf165b9eaaacee948011
+Duration: 61.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE66b17020278f805ceadcdb6751d12466
+Duration: 60.0 seconds
+Rejection Reason: autre_langue
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbbfc2f68a47381a1560fca9d167a66c0
+Duration: 60.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REcc6e69e801db089759ab54171813c7ef
+Duration: 60.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd37669abe4907398df64efa8586185c1
+Duration: 60.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd5164667b8f19d36e562f4f816bce009
+Duration: 60.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe35066badb9daeb9381e02ba85dc7360
+Duration: 60.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE368efa1abc3076968bca3c8fe67cfc63
+Duration: 59.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd3e9dede78c3399be547354f009947d1
+Duration: 59.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5c1c31e3f8e2340cf8a362b7db824fa4
+Duration: 58.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9c4d39422623c4605d572d7218cacba9
+Duration: 58.0 seconds
+Rejection Reason: pas_besoin
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb60ce72674997d507128e4718b6b60ee
+Duration: 58.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REeb32b813102d3735467f03123edd5e7b
+Duration: 58.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE41cc5134ae8e6a821899971166643645
+Duration: 57.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5f2f679bdb0d33c0aecc11b37d59db31
+Duration: 57.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf8cbd1dcfa40ce2ce5884204ceda0d89
+Duration: 57.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE366a2504729cebffa23038d6f86b8321
+Duration: 56.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE27d2e28808086a5fa85fad1f2b678d87
+Duration: 55.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE44f676fa9e0b614888faac76847de590
+Duration: 55.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE359e0a1b70e45b1d7fd1cc183b8dd43a
+Duration: 54.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5ad2449b9d43b70e2cf38af34e27fb9a
+Duration: 54.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6ee339631523f1b6015e3cee32661b12
+Duration: 54.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE70741b148b90532af96d68b69e9133ef
+Duration: 54.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7f0d6706dc7c85121faff66446b958be
+Duration: 54.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE94be3bf522caaf0a0e6785d1f8c4076c
+Duration: 54.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9b7490a77ed7feb77f93ee6c1fbad1a2
+Duration: 54.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa6af036aba7161466d174eeab2d56384
+Duration: 54.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe73f2947f3d82416fd7a00517bc8d47b
+Duration: 54.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE23ba072b75d824b6960ee1dcae7893cd
+Duration: 53.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE674a8854eed39af3f353dc0406f02843
+Duration: 53.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe37d81d31de2f92978f219a41063e051
+Duration: 53.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE85e4f350b0f8afacee1ce1eaf59d7df8
+Duration: 52.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REddcd90046b1a6861f24e46c48b5379ea
+Duration: 52.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf16af3d1ee57286a8abd06351eb7adb2
+Duration: 52.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfaeea42ce2484060a1b228f186617b58
+Duration: 52.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfdfc207aceb0b1db82b73259f3f67c0e
+Duration: 52.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE18b26dbcccd6904b236f6a3f6ac2f20d
+Duration: 51.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE92a0785fe8a6ef78b40f28390aa20e20
+Duration: 51.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3c4a628c0bd0abca7375b4f39a6b0842
+Duration: 50.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9e716b4ff816d25cf9e357464fa19d27
+Duration: 50.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REaf128986eaa626c3a4b5b52a07cbd4ea
+Duration: 50.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc687e4bde90515592b945549421994e2
+Duration: 50.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE913ca1d9b767c36e6de695a5b7bacf7f
+Duration: 49.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc012aa565a2f1d1a0b95c1b113f93a16
+Duration: 49.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE62c629efa514ab96addb6ad4f65a7192
+Duration: 48.0 seconds
+Rejection Reason: pas_besoin
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE63bb812f1ce06467b2792c91795717fe
+Duration: 48.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE97e5c8f336a7edd161fe4eb071aab06a
+Duration: 48.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9d1807ad09204ca29ffadc885ba7fda6
+Duration: 48.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE21be8c52f4b6ea06ed61b5dee351c5e9
+Duration: 47.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5c6c6560d910f6167fc45cfc21b1a3a9
+Duration: 47.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6bc881685e7c3453040a3d33e9dbcca3
+Duration: 47.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REa61bb3b98916e2fffc8a9a0fdb83bb97
+Duration: 47.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE2f9ad662ed04941afd05f698a393ce96
+Duration: 46.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE499bacb4629c795959f4db2be425399d
+Duration: 46.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE70af32d62516e81f723dc4dfc8155b26
+Duration: 46.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9ce3ae31eb05bd0e19845bafcf542644
+Duration: 46.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REae9d5e1394524e5b3da0bd138a08f0e7
+Duration: 46.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe73b9dd96e3628468a152b4440b0af32
+Duration: 46.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0c0226bcfee13325331bd79484197a81
+Duration: 45.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE294911cd814cbb2c9ccdbe2a83e998cd
+Duration: 45.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE553e5980e4724cd5e55737f6e3a23d51
+Duration: 45.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7a654384926e1e072c95a04c371fe421
+Duration: 45.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8b352d3e86585fe4a516aee74ab53637
+Duration: 45.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9c781d5285d9384cbe8f459ef89cec74
+Duration: 45.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb73ee20f47cc71d557614c2aa0dbad67
+Duration: 45.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe542a58137451c3f8b68e7cff61f87c1
+Duration: 45.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REab933caa8c1e5ec9ab80f240b6334fb5
+Duration: 44.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4ffe4366642c9848201262cc19a0dd2f
+Duration: 43.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE74c621aba28bb7b52a5df9b74c26edfc
+Duration: 43.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE79d8eff99a622f73e8f615178ab31260
+Duration: 43.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8c1f0cd1a75c9fe2d43b256d178cd151
+Duration: 43.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8d3d416a91e74e5e9f1736a95c92448f
+Duration: 43.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REaa41874428ca42e62c52ef758a9b77a3
+Duration: 43.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb27a5dce2c44b32de40dfd11b6d2ea96
+Duration: 43.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb4de81f80762c72963973363e634a638
+Duration: 43.0 seconds
+Rejection Reason: client occupé
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc15c413b76a5a54b1de074a50bd3ac91
+Duration: 43.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe3a74c6f4453f73a769e57aafd727d3d
+Duration: 43.0 seconds
+Rejection Reason: déplacement fréquent
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9075c0332c8ad7081d68daeef091b16b
+Duration: 42.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd13885c44fb7271fcfef2ba8f7ad2620
+Duration: 42.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe0f59b1ffc372953f84516365ffd19a5
+Duration: 42.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE053f358c383319cd5e56c23e988ba755
+Duration: 41.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0ad059d0acea9dadb5cf231d7eeb811c
+Duration: 41.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9c4be2ab2edd9e1cc94b4cb42b0a6d7c
+Duration: 41.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REb72c767379fe3d133984afa71e8ecf4f
+Duration: 41.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd51280746ba0463b2a215ca262e9c707
+Duration: 41.0 seconds
+Rejection Reason: pas_besoin
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REdd8942625b676b3c624d74337228e4cb
+Duration: 41.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe64c59dacf45503b46bfee6cef601754
+Duration: 41.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REeeb9281695b97b2dd5b86182acb79469
+Duration: 41.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE76da5f5ff71f07fb36e1781c7fbfd121
+Duration: 40.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REed76646769fee77445c4443570792fc6
+Duration: 39.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE01f5e6b6305802a94c1e5aa7d92039ad
+Duration: 38.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3391e9da81344a05b01a57f56d7f5656
+Duration: 38.0 seconds
+Rejection Reason: client occupé
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4d4a07b87cbf29f83197d01c5de2b9e9
+Duration: 38.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec assistance client disponible en tout temps
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REaa37f9cc025541aa1322511a4427791e
+Duration: 38.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REee9edf79d9f850ec2d81258320758fc4
+Duration: 38.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE332d4de1a31caf0e9bcdba5344a480f6
+Duration: 37.0 seconds
+Rejection Reason: client occupé
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE62f7b5bdd1bb7ddbc8a4661f915a82d1
+Duration: 37.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE6c2bafcfda722932d4d373991ba99a61
+Duration: 37.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE883e524cfc293955b3fc458895f01d41
+Duration: 37.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE901d6159634f0729a57dfe4550d50aa4
+Duration: 37.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0fb5cb4280486a6979417c8a23daf191
+Duration: 36.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbd9bc8b8a5d843743630ab16102b9233
+Duration: 36.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5a010939c6247932e1f722244ba6dbb0
+Duration: 35.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE7aab11126637fa14ab451551c9db6eca
+Duration: 35.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8d8ce6976def570b8c62d1bd28512012
+Duration: 35.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE9914c1a3e79c8c26104e926b9e279afa
+Duration: 35.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REcebc9f7c1333fa93cf5bc3e5d44d9919
+Duration: 35.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4eadbdd5098f9d5e0069e27e99ae9a3a
+Duration: 34.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REbea81515bf0ee6b3cb9e71dc9607329d
+Duration: 34.0 seconds
+Rejection Reason: prix_élevé
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REd293541a243fba07180a68ce7cf8e8d4
+Duration: 34.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe795aeab417d036f11fc18f49d40a385
+Duration: 34.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REeb7ab08979d06d29b1bd5bd52d3957d8
+Duration: 34.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE0da9780e79a7716e8718c5d7b014e7ba
+Duration: 33.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1348302e4c9e96c751f1c9f5475c7127
+Duration: 33.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1b80277126c046a0e0b8afe5b075e50a
+Duration: 33.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE52abd95c79b4369a868a15a06df0c648
+Duration: 33.0 seconds
+Rejection Reason: autre_langue
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE583b522d3883b8f15f01e830af1a7ad9
+Duration: 33.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE22e0d4ef727e9f5320905a29b3ac4db8
+Duration: 32.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE3184a7f287b207d4640293bb98e4cc49
+Duration: 32.0 seconds
+Rejection Reason: client mécontent : demande de justification de la source du numéro de téléphone
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE4cdc4b105cab4653a773f28f4a5a1a04
+Duration: 32.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE5994ab35d80bab1da182235f95fe8126
+Duration: 32.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE61d96f5373f88337209b9b5d8f79c7da
+Duration: 32.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE8ae2f1207682823caa2650474678654f
+Duration: 32.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE999d0b181b0e06013434e7f61f6e09e8
+Duration: 32.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe0a454b40825526956e9999268206f95
+Duration: 32.0 seconds
+Rejection Reason: abonnement existant
+agent argument: proposition offre spéciale
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REe3d8c721bc6f87092a5a669d2f5ee779
+Duration: 32.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec accès à des chaînes haut de gamme
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE1246fe809c15869b9ad2e10674fc971e
+Duration: 31.0 seconds
+Rejection Reason: autre_langue
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE88daf0e8fd3c878847893d03e64f0f1c
+Duration: 31.0 seconds
+Rejection Reason: changement_abonnement
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc2afe91b38f7534ae176ad7b2482757e
+Duration: 31.0 seconds
+Rejection Reason: abonnement existant
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REced8ec76504fbd06bee80f2417c3ef4f
+Duration: 31.0 seconds
+Rejection Reason: préférence connexion filaire
+agent argument: offre avec installation sans frais
+
+url: https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REf1ef2629727157ec0e2e8a46d7d3025b
+Duration: 31.0 seconds
+Rejection Reason: téléphone en panne
+agent argument: offre avec installation sans frais
+

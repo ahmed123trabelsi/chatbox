@@ -1,0 +1,25 @@
+url : https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE671ba637f68fe8467f7c9cfa9cfce481
+La raison de rejet est : "Je vais changer d'abonnement, mais ce ne sera pas chez vous, donc ce sera peut-être plus tard chez vous. Là, je vais changer d'abonnement sur tous."
+Le contre-argument est : "Vous avez besoin d'une offre, c'est-à-dire en Suisse seulement ou bien vers l'Europe aussi?"
+Les mots clés de la raison de rejet sont  : ['Changement', "d'abonnement", 'Pas', 'chez', 'vous']
+Les mots clés du contre-argument sont : ['"Nous', 'ne', 'sommes', 'pas', 'intéressés,', 'merci."']
+url : https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REc3c4ab93d417354cc4eda00253acb6d0
+La raison de rejet est : "on a déjà des abonnements de téléphone, ça joue comme ça, on est bien."
+Le contre-argument est : "D'accord madame, peut-être à la prochaine, au revoir."
+Les mots clés de la raison de rejet sont  : ['abonnements', 'téléphone', 'joue']
+Les mots clés du contre-argument sont : ['désintérêt,', 'client,', 'agent']
+url : https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REfdd417aeedd72764ee852a61281f651a
+La raison de rejet est : "Je peux pas faire d'abonnement parce que j'étais en retard pour payer une facture, donc."
+Le contre-argument est : "Donc peut-être à la prochaine dans ce cas."
+Les mots clés de la raison de rejet sont  : ['abonnement', 'facture', 'retard']
+Les mots clés du contre-argument sont : ['"Donc', 'peutêtre', 'à', 'la', 'prochaine', 'dans', 'ce', 'cas."']
+url : https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/RE98a9666695552e6cf53b3443173f882e
+La raison de rejet est : "Je n'appelle pas l'Europe, je ne connais personne là-bas."
+Le contre-argument est : "Donc, c'est avec le Napel, la télé, la fibre, c'est ça?"
+Les mots clés de la raison de rejet sont  : ["l'Europe", 'personne']
+Les mots clés du contre-argument sont : ['"Donc,', "c'est", 'avec', 'le', 'Napel,', 'la', 'télé,']
+url : https://api.twilio.com/2010-04-01/Accounts/AC4fe689d01a8614e6572adb5df245497b/Recordings/REafb1c3c56bd8840ce3c0b663acf2f4cb
+La raison de rejet est : "Je vais bientôt avoir le changement au mois de juin, c'est bon."
+Le contre-argument est : "Parce que c'est bien plus cher que vous, vous êtes au minimum à 58, 60 francs par mois, pour la partie Internet."
+Les mots clés de la raison de rejet sont  : ['Changement', 'Mois', 'Juin']
+Les mots clés du contre-argument sont : ['"Parce', 'que', "c'est", 'bien', 'plus', 'cher', 'que', 'vous,', 'vous']
